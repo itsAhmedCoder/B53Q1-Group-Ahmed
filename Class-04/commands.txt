@@ -1,1 +1,42 @@
+Step-1: (VS Code Settings)
+--------------------------
+  - Start 'VS Code' as an administrator.
+  - Execute the following command to enable running scripts in 'VS Code' terminal:
+      -> Set-ExecutionPolicy -Scope CurrentUser Unrestricted
 
+Step-2: (Generate JSON Files)
+-----------------------------
+  - Generate 'tsconfig.json' file:
+      -> tsc --init
+  - Generate 'package.json' file:
+      -> npm init
+
+Step-3: (Update JSON Files)
+---------------------------
+  - In 'tsconfig.json' file:
+      - Go to Line#14:
+          -> "target": "ES2022",
+      - Go to Line#28:
+          -> "module": "NodeNext",
+      - Go to Line#30:
+          -> Uncomment Line#30
+          -> "moduleResolution": "NodeNext",
+  - In 'package.json' file:
+      - Go to Line#5:
+          -> Add new line after Line#5.
+          -> "type": "module",
+
+Step-4: (Inquirer Package Setup)
+--------------------------------
+  - Enable internet.
+  - Execute Command-1:
+      -> npm i inquirer
+  - Execute Command-2:
+      -> npm i --save-dev @types/inquirer
+
+Step-5: (Compilation and Execution)
+-----------------------------------
+  - Execute Command-1:
+      -> tsc
+  - Execute Command-2:
+      -> node index
