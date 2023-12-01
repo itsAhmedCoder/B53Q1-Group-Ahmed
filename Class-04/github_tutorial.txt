@@ -1,0 +1,35 @@
+Step-1: (Github Account Creation)
+---------------------------------
+ - Create a Github Account:
+     -> Tutorial URL: https://www.youtube.com/watch?v=Gn3w1UvTx0A
+ 
+Step-2: (Create a Private Repository)
+-------------------------------------
+ - Create a Private Repository:
+     -> Video Start Time: 5:40
+     -> Video End Time: 6:10
+     -> Tutorial URL: https://youtu.be/9QBVv6Mk2IQ?t=342
+
+Step-3: (Add Your Instructor in a Collaborator List)
+----------------------------------------------------
+ - Add your instructor in a collaborator list.
+     -> Video Start Time: 0:17
+     -> Video End Time: 1:27
+     -> Tutorial URL: https://youtu.be/YG3iU8J0G5Q?t=17
+
+Step-4: (Upload Files)
+----------------------
+ - Upload your assignment files.
+     -> Video Start Time: 2:47
+     -> Video End Time: 3:16
+     -> Tutorial URL: https://youtu.be/ussgXhJ-cp0?t=147
+
+Step-5: (Share Assignment URL)
+------------------------------
+ - Share your assignment URL in your Group-Ahmed.
+
+
+Github General Overview (For Newbies Only):
+-------------------------------------------
+ - The following tutorial will give you a very good general idea about how to use a Github.
+     -> URL: https://www.youtube.com/watch?v=kJaIYx5tHOI
